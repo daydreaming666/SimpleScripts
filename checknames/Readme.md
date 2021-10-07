@@ -23,7 +23,7 @@ python checknames.py {working-dir}
     "name_format": "{classname}-{id}-{name}{extname}", // 这里规定重命名的格式
     "classname": "软件191",	// 班级名
     "names": {
-        "李华": "190265461"，	// 输入姓名和学号，以逗号隔开
+        "李华": "190265461",	// 输入姓名和学号，以逗号隔开
         "王小美": "190265462"
     }
 }
